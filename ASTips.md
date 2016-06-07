@@ -1,4 +1,4 @@
-#原文http://www.codeceo.com/article/android-studio-skills.html
+[原文](http://www.codeceo.com/article/android-studio-skills.html)
 1 ctrl+f12： 此快捷键可以调出当前文件的大纲，并通过模糊匹配快速跳转至指定的方法。
 2 ctrl+alt+h：  此快捷键可以查看某个方法的调用路径。
 3 ctrl+shift+i： 不离开当前文件当前类的情况下快速查看某个方法或者类的实现。
@@ -18,4 +18,4 @@
 16 分析堆栈信息Find Actions(ctrl+shift+a)输入”analyze stacktrace”即可查看堆栈信息。
 17 分析某个值的来源Find Actions(ctrl+shift+a)输入”Analyze Data Flow to Here”，可以查看某个变量某个参数其值是如何一路赋值过来的。对于分析代码非常有用。
 18 Alt+j: 多行编辑。
-19 优化 Android Studio 启动、编译和运行速度 原文http://www.codeceo.com/article/android-studio-start-speed.html
+[19 优化 Android Studio 启动、编译和运行速度 原文](http://www.codeceo.com/article/android-studio-start-speed.html)
